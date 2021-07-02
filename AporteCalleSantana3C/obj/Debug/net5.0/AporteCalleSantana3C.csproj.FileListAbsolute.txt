@@ -1,0 +1,5 @@
+C:\Users\CompuStore\source\repos\AporteCalleSantana3C\obj\Debug\net5.0\AporteCalleSantana3C.csprojAssemblyReference.cache
+C:\Users\CompuStore\source\repos\AporteCalleSantana3C\obj\Debug\net5.0\AporteCalleSantana3C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\source\repos\AporteCalleSantana3C\obj\Debug\net5.0\AporteCalleSantana3C.AssemblyInfoInputs.cache
+C:\Users\CompuStore\source\repos\AporteCalleSantana3C\obj\Debug\net5.0\AporteCalleSantana3C.AssemblyInfo.cs
+C:\Users\CompuStore\source\repos\AporteCalleSantana3C\obj\Debug\net5.0\AporteCalleSantana3C.csproj.CoreCompileInputs.cache
